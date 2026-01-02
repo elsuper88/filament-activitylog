@@ -6,7 +6,7 @@
         "laravel",
         "laravel-filament-activitylog"
     ],
-    "homepage": "https://github.com/ralphjsmit/laravel-filament-activitylog",
+    "homepage": "https://github.com/elsuper88/filament-activitylog",
     "license": "MIT",
     "authors": [
         {
@@ -57,8 +57,8 @@
     "prefer-stable": true,
     "repositories": [
         {
-            "type": "composer",
-            "url": "https://satis.ralphjsmit.com"
+            "type": "vcs",
+            "url": "https://github.com/elsuper88/ralphjsmit-packages"
         }
     ]
 }
